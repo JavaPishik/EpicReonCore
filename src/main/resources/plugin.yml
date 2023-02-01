@@ -1,0 +1,9 @@
+name: EpicReonCore
+version: '${project.version}'
+main: net.epicreoncore.EpicReonCore
+api-version: 1.19
+prefix: EpicReonCore
+authors: [ JarPishik ]
+commands:
+  chests:
+    permission: epicreoncore.chests
